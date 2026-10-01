@@ -18,7 +18,7 @@ This project is an advanced, Python-based custom password profiler inspired by C
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/custom-profiler.git
+git clone https://github.com/yacinebensmail/custom-profiler.git
 cd custom-profiler
 \`\`\`
 
